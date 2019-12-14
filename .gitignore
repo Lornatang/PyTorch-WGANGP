@@ -113,5 +113,22 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
-# my file
+# datasets
+datasets/MNIST
+datasets/faces
+
+# IDE file
 .idea
+.vscode
+
+# Mac file
+.DS_Store
+
+# generate imgs folder
+unknown/
+
+# Model file
+checkpoints/
+
+# API file
+static/
