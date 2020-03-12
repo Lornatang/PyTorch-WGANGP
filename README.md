@@ -1,5 +1,7 @@
 ## Deep Convolution Generative Adversarial Networks
 
+This project has been abandoned. The new project address is "https://github.com/Lornatang/WassersteinGAN_GP-PyTorch"
+
 ### Introduction
 
 This example implements the paper [Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks](http://arxiv.org/abs/1511.06434)
